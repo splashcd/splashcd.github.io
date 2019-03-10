@@ -1,0 +1,6 @@
+theme: jekyll-theme-slate
+plugins:
+  - jekyll-seo-tag
+title: SplashCD Coding Projects
+description: A blog dedicated to reviewing coding projects
+author: Brett Berry
